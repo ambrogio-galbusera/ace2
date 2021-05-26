@@ -17,3 +17,11 @@ Test application for the Twilio services
 https://colab.research.google.com/drive/1Ww_Zza3sXLLMNdnrUTgDkbKlw9mpZp34#scrollTo=W8jE-BZfZtz7
 https://colab.research.google.com/drive/1_lLyAVyToVh_kdUaVrxRozjhyjySnow5#scrollTo=PFGZQZUK-AUI
 
+### ace-ble
+BLE test application
+
+### ace
+ACE Arduino sketch
+
+### ace-ble-android
+Android app (Android studio project)
